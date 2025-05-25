@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "devices": {
+      ".read": "auth != null && auth.uid == '7k40MArgcoSgVS6DdYR9bOtA7pH3'",
+      "$deviceId": {
+        ".read": "auth != null && (auth.uid == $deviceId || auth.uid == '7k40MArgcoSgVS6DdYR9bOtA7pH3')",
+        "latest": {
+          ".write": "auth != null && auth.uid == $deviceId"
+        },
+        "history": {
+          ".write": "auth != null && auth.uid == $deviceId"
+        }
+      }
+    }
+  }
+}

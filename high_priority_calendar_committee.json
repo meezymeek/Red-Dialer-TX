@@ -1,0 +1,79 @@
+[
+  {
+    "representative_name": "HUNTER, Todd",
+    "phone_number": "(512) 463-0672",
+    "district": "32",
+    "party": "R",
+    "email": "todd.hunter@house.texas.gov"
+  },
+  {
+    "representative_name": "ROSE, Toni",
+    "phone_number": "(512) 463-0664",
+    "district": "110",
+    "party": "D",
+    "email": "toni.rose@house.texas.gov"
+  },
+  {
+    "representative_name": "CANALES, Terry",
+    "phone_number": "(512) 463-0426",
+    "district": "40",
+    "party": "D",
+    "email": "terry.canales@house.texas.gov"
+  },
+  {
+    "representative_name": "GERDES, Stan",
+    "phone_number": "(512) 463-0682",
+    "district": "17",
+    "party": "R",
+    "email": "stan.gerdes@house.texas.gov"
+  },
+  {
+    "representative_name": "HARRIS, Cody",
+    "phone_number": "(512) 463-0730",
+    "district": "8",
+    "party": "R",
+    "email": "cody.harris@house.texas.gov"
+  },
+  {
+    "representative_name": "HERNANDEZ, Ana",
+    "phone_number": "(512) 463-0614",
+    "district": "143",
+    "party": "D",
+    "email": "ana.hernandez@house.texas.gov"
+  },
+  {
+    "representative_name": "JOHNSON, Ann",
+    "phone_number": "(512) 463-0389",
+    "district": "134",
+    "party": "D",
+    "email": "ann.johnson@house.texas.gov"
+  },
+  {
+    "representative_name": "LEACH, Jeff",
+    "phone_number": "(512) 463-0544",
+    "district": "67",
+    "party": "R",
+    "email": "jeff.leach@house.texas.gov"
+  },
+  {
+    "representative_name": "LOPEZ, Janie",
+    "phone_number": "(512) 463-0640",
+    "district": "37",
+    "party": "R",
+    "email": "janie.lopez@house.texas.gov"
+  },
+  {
+    "representative_name": "ROMERO JR., Ramon",
+    "phone_number": "(512) 463-0740",
+    "district": "90",
+    "party": "D",
+    "email": "ramon.romero@house.texas.gov"
+  },
+  {
+    "representative_name": "TEPPER, Carl H.",
+    "phone_number": "(512) 463-0676",
+    "district": "84",
+    "party": "R",
+    "email": "carl.tepper@house.texas.gov"
+  }
+]
